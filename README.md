@@ -20,11 +20,11 @@ Unsure. It hasn't for our alpha testers so far.
 
 > Is this stable?
 
-No; this mod just enables a feature that was disabled for a future '0 DAY PATCH'. However, there was no 0 day patch - hence this mod. Each time you select a drop down for a team, a new number will be added. The team list begin at `0` and `1` and will cap out up to `5` (requiring a few clicks of the dropdown). 
+Yes; this mod just enables a feature that was disabled for a future '0 DAY PATCH'. However, there was no 0 day patch - hence this mod. There is a bug, however. Each time you select a drop down for a team, a new number will be added. The team list begin at `0` and `1` and will cap out up to `5` (requiring a few clicks of the dropdown).
 
 > What do I get out of enabling teams?
 
-We have noticed that you see where your teammates start on the map. This allows for building embassies with each other faster (in theory) and earlier strategizing. It provides no further benefits until later ages where it appears research agreements (when unlocked) are available faster. Let us know what you find by [Creating a new issue](https://github.com/code-for-coffee/civ6-team-multiplayer-mod/issues/new)!
+We have noticed that you see where your teammates start on the map. This allows for building embassies with each other faster (in theory) and earlier strategizing. We believe benefits unlock faster as a team but we were more focused on testing the game stability when testing for our first few games. Let us know what you find by [creating a new issue](https://github.com/code-for-coffee/civ6-team-multiplayer-mod/issues/new)!
 
 > What files are modified?
 
