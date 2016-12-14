@@ -2,7 +2,7 @@
 
 ## Installation Instructions
 
-1. Download the zip archive in this repository here.
+1. [Download the zip archive in this repository here](https://github.com/code-for-coffee/civ6-team-multiplayer-mod/raw/master/Civ6TeamMultiplayerMod.zip).
 2. Locate your Civilization 6 folder. This can be found in `Steam\steamapps\common\Sid Meier's Civilization VI` on Windows. On Mac OS X, locate your `Civilization VI.app` file and _show package contents_.
 3. Extract the zip archive inside of your Steam folder. It will ask to replace three files (do so).
 4. Start Civ 6 as usual.
