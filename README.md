@@ -23,3 +23,18 @@ No; this mod just enables a feature that was disabled for a future '0 DAY PATCH'
 > What do I get out of enabling teams?
 
 We have noticed that you see where your teammates start on the map. This allows for building embassies with each other faster (in theory) and earlier strategizing. It provides no further benefits until later ages where it appears research agreements (when unlocked) are available faster. Let us know what you find by [Creating a new issue](https://github.com/code-for-coffee/civ6-team-multiplayer-mod/issues/new)!
+
+> What files are modified?
+
+```bash
+├── Base
+│   └── Assets
+│       ├── Text
+│       │   └── en_US
+│       │       └── FrontEndText.xml
+│       └── UI
+│           └── FrontEnd
+│               └── Multiplayer
+│                   ├── StagingRoom.lua
+│                   └── StagingRoom.xml
+```
