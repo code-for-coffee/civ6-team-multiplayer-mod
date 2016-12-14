@@ -10,6 +10,8 @@
 6. Select a team (number 0 through 5) from the drop down.
 7. Play as usual (with teams)!
 
+![screen.jpg](screen.jpg)
+
 ## FAQ
 
 > Will this break my game?
